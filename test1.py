@@ -1,0 +1,16 @@
+print ("My name 'is' Anurag")
+print("Python class is \"Excellent\"")
+print('"navneet" sir woke up late')
+print('I called \'him\' twice')
+print("I called 'him' twice")
+print('I called him twice\\') #This is the third day of our class "Navneet ji" didn't woke up on time
+print("this is box 1")
+print("this is box 2")
+print("this is box 1\nthis is box 2")
+print("this is box 1\bthis is box 2")
+#This is the third day of our class "Navneet ji" didn't woke up on time
+print("line A \band\n line\t B")
+print(r"line A \band\n line\t B")
+# print(r"line "A" \"band"\n line\t B")
+print("\U0001F600")
+print('we learnt py \U0001F601')
